@@ -1,0 +1,18 @@
+# Virtual Environments
+venv/
+*.env
+
+# Model Checkpoints
+*.pt
+*.pth
+*.h5
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Cache
+__pycache__/
+
+# Logs
+logs/
+*.log
