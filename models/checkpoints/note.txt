@@ -1,0 +1,4 @@
+Upload model checkpoints in this directory 
+Note that model checkpoints, .pth files, .ipynb files 
+are ignored to make deltas
+
